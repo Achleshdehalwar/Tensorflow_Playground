@@ -1,0 +1,22 @@
+# ==============================
+# TensorFlow Playground Dependencies
+# ==============================
+
+# Frontend & App Framework
+streamlit       # For creating interactive web apps
+
+# Data Handling
+numpy           # Numerical computations
+pandas          # Data manipulation and CSV handling
+
+# Machine Learning & Preprocessing
+scikit-learn    # Datasets, preprocessing, and train-test split
+
+# Neural Networks
+tensorflow      # Core deep learning library
+keras           # High-level neural network API
+
+# Visualizations
+matplotlib      # Plotting training curves
+mlxtend         # Decision boundary plotting
+graphviz        # Neural network architecture visualization
